@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Haras Designs Tech</string>
+    <string name="HDT_logo">HDT logo</string>
+    <string name="main_picture">main_picture</string>
+    <string name="location_icon">location</string>
+    <string name="telephone_icon">telephone</string>
+    <string name="time_icon">time</string>
+
+    <string name="about">Haras Designs Tech is an outfit positioned to provide unequal services, as it relates to designs and technology. Our services includes &#8230;</string>
+    <string name="graphics">• GRAPHICS DESIGNS</string>
+    <string name="website">• WEBSITE DESIGNS</string>
+    <string name="training">• COMPUTER TRAININGS</string>
+    <string name="branding">• BRANDING</string>
+    <string name="autocad">• AUTOCAD/HOUSE PLAN</string>
+
+    <string name="contact">www.harasdt.com</string>
+    <string name="open">Mondays to Fridays \n8:00am — 5:30pm</string>
+    <string name="address">132, Ekenwan Road,\n Benin City, Edo State</string>
+    <string name="telephone">+234806&#8211;545&#8211;0356\n+234807&#8211;500&#8211;7255</string>
+</resources>
